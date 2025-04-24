@@ -65,7 +65,7 @@ Execute the program using runserver command.
         <td>8-10</td>
         <td>CHEMISTRY</td>
         <td>C PROGRAMMING</td>
-        <td></td>
+        <td>FREE SLOT</td>
         <td>PHY</td>
         <td>PROBABILITY</td>
     </tr>
@@ -95,7 +95,7 @@ Execute the program using runserver command.
         <td>STATISTICS</td>
         <td>PROBABILITY</td>
         <td>FWAD</td>
-        <td></td>
+        <td>FREE SLOT</td>
     </tr>
 </table>
 
@@ -124,12 +124,12 @@ Execute the program using runserver command.
     <tr>
         <td>4</td>
         <td>19MA211</td>
-        <td>Probability</td>
+        <td>Probability (MAT)</td>
     </tr>
     <tr>
         <td>5</td>
         <td>19AI304</td>
-        <td>C Programming (C Program)</td>
+        <td>C Programming (C PROGRAM)</td>
     </tr>
     <tr>
         <td>6</td>
@@ -139,7 +139,7 @@ Execute the program using runserver command.
     <tr>
         <td>7</td>
         <td>19MA412</td>
-        <td>Statistics</td>
+        <td>Statistics (MAT)</td>
     </tr>
 </table>
 </center>
@@ -149,7 +149,7 @@ Execute the program using runserver command.
 ```
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/7c1ebdaf-4028-4607-81cb-5c45d10f98f8)
+![image](https://github.com/user-attachments/assets/9fc6e851-5372-41c2-b315-470c779cf6e4)
 
 
 ## RESULT
