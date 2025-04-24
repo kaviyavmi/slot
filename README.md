@@ -24,8 +24,8 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM 
-
-<!DOCTYPE html><html>
+```
+<!DOCTYPE html>
 <head>
     <title>Class Timetable</title>
     <style>
@@ -63,8 +63,8 @@ Execute the program using runserver command.
     </tr>
     <tr class="highlight">
         <td>8-10</td>
-        <td>EEE</td>
-        <td>ALGEBRA</td>
+        <td>CHEMISTRY</td>
+        <td>C PROGRAMMING</td>
         <td></td>
         <td>PHY</td>
         <td>PROBABILITY</td>
@@ -72,10 +72,10 @@ Execute the program using runserver command.
     <tr class="highlight">
         <td>10-12</td>
         <td>STATISTICS</td>
-        <td>FREE SLOT</td>
-        <td>FWAD</td>
-        <td>FWAD</td>
         <td>PHY</td>
+        <td>FWAD</td>
+        <td>FWAD</td>
+        <td>FREE SLOT</td>
     </tr>
     <tr>
         <td>12-1</td>
@@ -83,8 +83,8 @@ Execute the program using runserver command.
     </tr>
     <tr class="highlight">
         <td>1-3</td>
-        <td>ALGEBRA</td>
-        <td>EEE</td>
+        <td>C PROGRAMMING</td>
+        <td>CHEMISTRY</td>
         <td>MAT</td>
         <td>MAT</td>
         <td>SS</td>
@@ -113,8 +113,8 @@ Execute the program using runserver command.
     </tr>
     <tr>
         <td>2</td>
-        <td>19EE414</td>
-        <td>EEE</td>
+        <td>19CY205</td>
+        <td>Chemistry(chem)</td>
     </tr>
     <tr>
         <td>3</td>
@@ -128,8 +128,8 @@ Execute the program using runserver command.
     </tr>
     <tr>
         <td>5</td>
-        <td>19MA201</td>
-        <td>Calculus and Matrix Algebra (MAT)</td>
+        <td>19AI304</td>
+        <td>C Programming (C Program)</td>
     </tr>
     <tr>
         <td>6</td>
@@ -141,24 +141,15 @@ Execute the program using runserver command.
         <td>19MA412</td>
         <td>Statistics</td>
     </tr>
-    <tr>
-        <td>8</td>
-        <td>19MA312</td>
-        <td>Algebra</td>
-    </tr>
 </table>
 </center>
 
 </body>
 </html>
-
-
-
+```
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/d95b2643-6d81-42eb-af73-e577d8f0e237)
-
-
+![image](https://github.com/user-attachments/assets/7c1ebdaf-4028-4607-81cb-5c45d10f98f8)
 
 
 ## RESULT
